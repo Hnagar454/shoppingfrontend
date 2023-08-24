@@ -11,7 +11,7 @@
 }
 
 #Header {
-background-image: url("../images/banner-img-1.jpg") ;
+background-image: url("../images/shop1.jpg") ;
 }
 
 .active-filter-btn{
@@ -69,7 +69,6 @@ footer a:hover{
 }
 
 ul li{
-	list-style-type: none !important;
 	color: salmon!important;
 	
 }
